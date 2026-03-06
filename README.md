@@ -22,4 +22,4 @@ El programa recibe la cadena de 81 caracteres como argumento de línea de comand
 3) Abrir la terminal.
 4) Usar el comando cd para direccioanarnos hacia la ubicacion de la carpeta que contiene el programa.
 5) Compilar: ejecute make en su terminal.
-6) Ejecutar una prueba: dé acceso a runSudoku.sh con chmod u+x runSudoku.sh, finalmente ejecute ./runSudokush [String con 81 numeros]. Por ejemplo: escribir "./runSudoku.sh 530070000600195000098000060800060003400803001700020006060000280000419005000080079" en la terminal lo cual retornara 534678912672195348198342567859761423426853791713924856961537284287419635345286179.
+6) Ejecutar una prueba: dé acceso a runSudoku.sh con chmod +x runSudoku.sh, finalmente ejecute ./runSudokush [String con 81 numeros]. Por ejemplo: escribir "./runSudoku.sh 530070000600195000098000060800060003400803001700020006060000280000419005000080079" en la terminal lo cual retornara 534678912672195348198342567859761423426853791713924856961537284287419635345286179.
